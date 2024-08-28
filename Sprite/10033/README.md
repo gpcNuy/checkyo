@@ -64,57 +64,57 @@
 <br>(61) ==
 <br><hr>
 [ SFLt - in Storage.cs ]
-<br>sign(0) == 
-<br>sign(1) == 
-<br>sign(2) == 
-<br>sign(3) == 
-<br>sign(4) == 
-<br>sign(5) == 
-<br>sign(6) == 
-<br>sign(7) == 
-<br>sign(8) == 
-<br>sign(9) == 
-<br>sign(10) == 
-<br>sign(11) == 
-<br>sign(12) == 
-<br>sign(13) == 
-<br>sign(14) == 
-<br>sign(15) == 
-<br>sign(16) == 
-<br>sign(17) == 
-<br>sign(18) == 
-<br>sign(19) == 
-<br>sign(20) == 
-<br>sign(21) == 
-<br>sign(22) == 
-<br>xyz(0) == 
-<br>xyz(1) == 
-<br>xyz(2) == 
-<br>xyz(3) == 
-<br>xyz(4) == 
-<br>xyz(5) == 
-<br>xyz(6) == 
-<br>set(0) == 
-<br>set(1) == 
-<br>set(2) == 
-<br>set(3) == 
-<br>set(4) == 
-<br>set(5) == 
-<br>set(6) == 
-<br>set(7) == 
-<br>set(8) == 
-<br>set(9) == 
-<br>set(10) == 
-<br>set(11) == 
-<br>set(12) == 
-<br>set(13) == 
-<br>set(14) == 
-<br>set(15) == 
-<br>set(16) == 
-<br>set(17) == 
-<br>set(18) == 
-<br>set(19) == 
-<br>set(20) == 
+<br>sign(0) == (31)s_VerNic
+<br>sign(1) == (31)s_Letter
+<br>sign(2) == (33)s_Notice (31)s_Letter2
+<br>sign(3) == (33)s_URL_1
+<br>sign(4) == (33)s_URL_2 (31)s_URL
+<br>sign(5) == (33)s_URL_3
+<br>sign(6) == (33)s_URL_4 (31)s_AdsNotice
+<br>sign(7) == (33)s_AdsLetter_1 (31)s_AdsL1
+<br>sign(8) == (33)s_AdsLetter_2 (31)s_AdsL2
+<br>sign(9) == (33)s_AdsLetter_3 (31)s_AdsL3
+<br>sign(10) == (33)s_AdsLetter_4 (31)s_AdsL4
+<br>sign(11) == (33)s_AdsLetter_1E (31)s_AdsL1E
+<br>sign(12) == (33)s_AdsLetter_2E (31)s_AdsL2E
+<br>sign(13) == (33)s_AdsLetter_3E (31)s_AdsL3E
+<br>sign(14) == (33)s_AdsLetter_4E (31)s_AdsL4E
+<br>sign(15) == (33)s_webImage_1
+<br>sign(16) == (33)s_webImage_2
+<br>sign(17) == (33)s_webImage_3
+<br>sign(18) == (33)s_webImage_4
+<br>sign(19) == (33)s_webImage_1E
+<br>sign(20) == (33)s_webImage_2E
+<br>sign(21) == (33)s_webImage_3E
+<br>sign(22) == (33)s_webImage_4E
+<br>xyz(0) == (33)f_AdsBlocScale (31)f_Esimate
+<br>xyz(1) == (31)f_TransEstimate
+<br>xyz(2) == (33)f_Estimate
+<br>xyz(3) == (33)f_EnterEasyBt1_Value (31)f_CDA1_Value
+<br>xyz(4) == (33)f_EnterEasyBt2_Value (31)f_CDA2_Value
+<br>xyz(5) == (33)f_EnterEasyBt3_Value (31)f_CDA3_Value
+<br>xyz(6) == (33)f_EnterEasyBt4_Value (31)f_CDA4_Value
+<br>set(0) == (31)iS_Language
+<br>set(1) == (31)iS_Ver
+<br>set(2) == (33)iS_AdsLayoutColor (31)iS_BackVer
+<br>set(3) == (33)null (31)iS_CDA1_Day
+<br>set(4) == (33)null (31)iS_CDA2_Day
+<br>set(5) == (33)null (31)iS_CDA3_Day
+<br>set(6) == (33)null (31)iS_CDA4_Day
+<br>set(7) == (31)iS_BoxFont
+<br>set(8) == (31)iS_MemoFont
+<br>set(9) == (31)iS_OrtherFont
+<br>set(10) == (31)iS_imSet_BackSCDB
+<br>set(11) == (31)iS_imSet_BackLB
+<br>set(12) == (31)iS_AdsS1
+<br>set(13) == (31)iS_AdsS2
+<br>set(14) == (31)iS_AdsS3
+<br>set(15) == (31)iS_AdsS4
+<br>set(16) == (33)iS_AdsPrize_1 (31)iS_AdsPrize
+<br>set(17) == (33)iS_AdsPrize_2 (32)iS_AutoAP
+<br>set(18) == (33)iS_AdsPrize_3 (32)iS_UseURL
+<br>set(19) == (33)iS_AdsPrize_4
+<br>set(20) == (33)iS_AutoAP
 <br>memory(0) == 
 <br>memory(1) == 
 <br>memory(2) == 
