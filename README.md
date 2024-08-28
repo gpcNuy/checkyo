@@ -1,8 +1,8 @@
 # checkyo
-[ home ]
+[ link of home ]
 <br>https://gpcnuy.github.io/checkyo/
 <br>
-<br>[ privacy policy ]
+<br>[ link of privacy policy ]
 <br>https://gpcnuy.github.io/checkyo/privacy-policy/
 <br><hr>
 <br>[ CheckYo - in sign.cs & SFLt - in Storage.cs ]
