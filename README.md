@@ -6,4 +6,4 @@
 <br>https://gpcnuy.github.io/checkyo/privacy-policy/
 <br><hr>
 <br>[ CheckYo - in sign.cs & SFLt - in Storage.cs ]
-<br>https://gpcnuy.github.io/checkyo/Sprite/10033
+<br>https://github.com/gpcnuy/checkyo/tree/main/Sprite/10033
