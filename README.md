@@ -2,6 +2,10 @@
 [ home ]
 <br>https://gpcNuy.github.io/checkyo/
 <br>
-[ privacy policy ]
+<br>[ privacy policy ]
 <br>https://gpcnuy.github.io/checkyo/privacy-policy/
-<hr>
+<br><hr>
+<br>[ CheckYo - in sign.cs ]
+<br>
+<br>[ SFLt - in Storage.cs ]
+<br>
