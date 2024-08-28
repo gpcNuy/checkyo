@@ -115,31 +115,32 @@
 <br>set(18) == (33)iS_AdsPrize_3 (32)iS_UseURL
 <br>set(19) == (33)iS_AdsPrize_4
 <br>set(20) == (33)iS_AutoAP
-<br>memory(0) == 
-<br>memory(1) == 
-<br>memory(2) == 
-<br>memory(3) == 
-<br>memory(4) == 
-<br>memory(5) == 
-<br>memory(6) == 
-<br>memory(7) == 
-<br>memory(8) == 
-<br>memory(9) == 
-<br>memory(10) == 
-<br>memory(11) == 
-<br>memory(12) == 
-<br>memory(13) == 
-<br>onOff(0) == 
-<br>onOff(1) == 
-<br>onOff(2) == 
-<br>onOff(3) == 
-<br>onOff(4) == 
-<br>onOff(5) == 
-<br>onOff(6) == 
-<br>onOff(7) == 
-<br>onOff(8) == 
-<br>onOff(9) == 
-<br>onOff(10) == 
-<br>onOff(11) == 
-<br>onOff(12) == 
-<br>onOff(13) == 
+<br>memory(0) == (31)iM_Advertise
+<br>memory(1) == (31)iM_Earn
+<br>memory(2) == (31)iM_Additional
+<br>memory(3) == (31)iM_Total
+<br>memory(4) == (31)iM_Period
+<br>memory(5) == (31)iM_Attend
+<br>memory(6) == (31)iM_SaveYY
+<br>memory(7) == (31)iM_SaveMM
+<br>memory(8) == (31)iM_SaveDD
+<br>memory(9) == (31)iM_CertifyDay
+<br>memory(10) == (33)iM_EnterEasyBt1_Day (31)iM_CDA1_Day
+<br>memory(11) == (33)iM_EnterEasyBt2_Day (31)iM_CDA2_Day
+<br>memory(12) == (33)iM_EnterEasyBt3_Day (31)iM_CDA3_Day
+<br>memory(13) == (33)iM_EnterEasyBt4_Day (31)iM_CDA4_Day
+<br>onOff(0) == (31)b_HideE
+<br>onOff(1) == (33)b_HideA (31)b_HideT
+<br>onOff(2) == (33)b_HideT (31)b_OnPeriod
+<br>onOff(3) == (33)b_OnPeriod (31)b_HaveOld
+<br>onOff(4) == (31)b_GetDay
+<br>onOff(5) == (33)b_questToDay (31)b_AdsOpen
+<br>onOff(6) == (31)b_AdsToDay
+<br>onOff(7) == (33)b_TestApp (31)b_AdsTest
+<br>onOff(8) == (33)b_adsTestID
+<br>onOff(9) == (33)b_adsBanner
+<br>onOff(10) == (33)b_OnMyAds_Slot1
+<br>onOff(11) == (33)b_OnMyAds_Slot2
+<br>onOff(12) == (33)b_OnMyAds_Slot3
+<br>onOff(13) == (33)b_OnMyAds_Slot4
+<br><hr>
