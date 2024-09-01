@@ -75,9 +75,10 @@
 <br>mList(44)Link_4, mList(45)Link_5, mList(46)Link_6, mList(47)Link_7, 
 <br>mList(48)Link_8, mList(49)Link_9, mList(50)ListLimit
 <br><hr>
-<br>[ DataBase.cs ]
+<br>[ DataBase.cs - 10031 ]
 <br>4 => amo.RandomAdmob(),
 <br>3 => amo.FullViewShow(),
 <br>2 => amo.RewaFVShow(),
 <br>1 => amo.RewardShow(),
+<br>_ => false,
 <br><hr>
