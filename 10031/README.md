@@ -14,6 +14,7 @@
 <br>sign(12)s_AdsL2E == mList(15)AdsL2E [광고 슬롯 설명]
 <br>sign(13)s_AdsL3E == mList(17)AdsL3E [광고 슬롯 설명]
 <br>sign(14)s_AdsL4E == mList(19)AdsL4E [광고 슬롯 설명]
+<br>
 <br>xyz(0)f_Estimate [공수 월 통합 배율]
 <br>xyz(1)f_TransEstimate [공수 증감량]
 <br>xyz(2)f_empty
@@ -21,6 +22,7 @@
 <br>xyz(4)f_CDA2_Value [이지버튼 고정 공수 값]
 <br>xyz(5)f_CDA3_Value [이지버튼 고정 공수 값]
 <br>xyz(6)f_CDA4_Value [이지버튼 고정 공수 값]
+<br>
 <br>set(0)iS_Language
 <br>set(1)iS_Ver == Ver.Put([현재 앱버전])
 <br>set(2)iS_BackVer
@@ -38,6 +40,7 @@
 <br>set(14)iS_AdsS3 == mList(33)AdsS3 [애드몹 광고 스위치 번호]
 <br>set(15)iS_AdsS4 == mList(34)AdsS4
 <br>set(16)iS_AdsPrize == mList(30)AdsPrize [4슬롯 보상 AP]
+<br>
 <br>memory(0)iM_Advertise [광고 포인트(AP)]
 <br>memory(1)iM_Earn [일일 공수(일 단가)]
 <br>memory(2)iM_Additional [추가 수입]
@@ -52,6 +55,7 @@
 <br>memory(11)iM_CDA2_Day [이지버튼 사용 일- 복사]
 <br>memory(12)iM_CDA3_Day [이지버튼 사용 일- 복사]
 <br>memory(13)iM_CDA4_Day [이지버튼 사용 일- 복사]
+<br>
 <br>onOff(0)b_HideE [일 단가 보기/가리기]
 <br>onOff(1)b_HideT [통합 금액 보기/가리기]
 <br>onOff(2)b_OnPeriod [월 계산 사용 여부]
