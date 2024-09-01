@@ -4,16 +4,12 @@
 <br>(64), (63), (62), (61), (60)ListLimit,
 <br>(59)ByteEmpty5, (58)ByteEmpty4, (57)ByteEmpty3, (56)ByteEmpty2, (55)ByteEmpty1,
 <br>(54)UseURL_4, (53)UseURL_3, (52)UseURL_2, (51)UseURL_1, (50)AutoAP,
-<br>
 <br>(49)Link_9, (48)Link_8, (47)Link_7, (46)Link_6, (45)Link_5,
 <br>(44)Link_4, (43)Link_3, (42)Link_2, (41)Link_1, (40)Link_0,
-<br>
 <br>(39)AdsPrize_4, (38)AdsPrize_3, (37)AdsPrize_2, (36)AdsPrize_1, (35)AdsVerify_4,
 <br>(34)AdsVerify_3, (33)AdsVerify_2, (32)AdsVerify_1, (31)AdsBlocScale, (30)AdsLayoutColor,
-<br>
 <br>(29)OnEmpty3, (28)OnEmpty2, (27)OnEmpty1, (26)OnMyAds_Slot4, (25)OnMyAds_Slot3,
 <br>(24)OnMyAds_Slot2, (23)OnMyAds_Slot1, (22)AdsBanner, (21)AdsRialID, (20)TestApp,
-<br>
 <br>(19)AdsLetter_4E, (18)AdsLetter_4, (17)AdsLetter_3E, (16)AdsLetter_3, (15)AdsLetter_2E,
 <br>(14)AdsLetter_2, (13)AdsLetter_1E, (12)AdsLetter_1, (11)AdsImage_4E, (10)AdsImage_4,
 <br>(9)AdsImage_3E, (8)AdsImage_3, (7)AdsImage_2E, (6)AdsImage_2, (5)AdsImage_1E,
