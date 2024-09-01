@@ -63,86 +63,29 @@
 <br>(60) == (32)(ListLimit)
 <br>(61) ==
 <br><hr>
-[ SFLt - in Storage.cs ]
-<br>sign(0) == (31)s_VerNic
-<br>sign(1) == (31)s_Letter
-<br>sign(2) == (33)s_Notice (31)s_Letter2
-<br>sign(3) == (33)s_URL_1
-<br>sign(4) == (33)s_URL_2 (31)s_URL
-<br>sign(5) == (33)s_URL_3
-<br>sign(6) == (33)s_URL_4 (31)s_AdsNotice
-<br>sign(7) == (33)s_AdsLetter_1 (31)s_AdsL1
-<br>sign(8) == (33)s_AdsLetter_2 (31)s_AdsL2
-<br>sign(9) == (33)s_AdsLetter_3 (31)s_AdsL3
-<br>sign(10) == (33)s_AdsLetter_4 (31)s_AdsL4
-<br>sign(11) == (33)s_AdsLetter_1E (31)s_AdsL1E
-<br>sign(12) == (33)s_AdsLetter_2E (31)s_AdsL2E
-<br>sign(13) == (33)s_AdsLetter_3E (31)s_AdsL3E
-<br>sign(14) == (33)s_AdsLetter_4E (31)s_AdsL4E
-<br>sign(15) == (33)s_webImage_1
-<br>sign(16) == (33)s_webImage_2
-<br>sign(17) == (33)s_webImage_3
-<br>sign(18) == (33)s_webImage_4
-<br>sign(19) == (33)s_webImage_1E
-<br>sign(20) == (33)s_webImage_2E
-<br>sign(21) == (33)s_webImage_3E
-<br>sign(22) == (33)s_webImage_4E
-<br>xyz(0) == (33)f_AdsBlocScale (31)f_Esimate
-<br>xyz(1) == (31)f_TransEstimate
-<br>xyz(2) == (33)f_Estimate
-<br>xyz(3) == (33)f_EnterEasyBt1_Value (31)f_CDA1_Value
-<br>xyz(4) == (33)f_EnterEasyBt2_Value (31)f_CDA2_Value
-<br>xyz(5) == (33)f_EnterEasyBt3_Value (31)f_CDA3_Value
-<br>xyz(6) == (33)f_EnterEasyBt4_Value (31)f_CDA4_Value
-<br>set(0) == (31)iS_Language
-<br>set(1) == (31)iS_Ver
-<br>set(2) == (33)iS_AdsLayoutColor (31)iS_BackVer
-<br>set(3) == (33)null (31)iS_CDA1_Day
-<br>set(4) == (33)null (31)iS_CDA2_Day
-<br>set(5) == (33)null (31)iS_CDA3_Day
-<br>set(6) == (33)null (31)iS_CDA4_Day
-<br>set(7) == (31)iS_BoxFont
-<br>set(8) == (31)iS_MemoFont
-<br>set(9) == (31)iS_OtherFont
-<br>set(10) == (31)iS_imSet_BackSCDB
-<br>set(11) == (31)iS_imSet_BackLB
-<br>set(12) == (31)iS_AdsS1
-<br>set(13) == (31)iS_AdsS2
-<br>set(14) == (31)iS_AdsS3
-<br>set(15) == (31)iS_AdsS4
-<br>set(16) == (33)iS_AdsPrize_1 (31)iS_AdsPrize
-<br>set(17) == (33)iS_AdsPrize_2 (32)iS_AutoAP
-<br>set(18) == (33)iS_AdsPrize_3 (32)iS_UseURL
-<br>set(19) == (33)iS_AdsPrize_4
-<br>set(20) == (33)iS_AutoAP
-<br>memory(0) == (31)iM_Advertise
-<br>memory(1) == (31)iM_Earn
-<br>memory(2) == (31)iM_Additional
-<br>memory(3) == (31)iM_Total
-<br>memory(4) == (31)iM_Period
-<br>memory(5) == (31)iM_Attend
-<br>memory(6) == (31)iM_SaveYY
-<br>memory(7) == (31)iM_SaveMM
-<br>memory(8) == (31)iM_SaveDD
-<br>memory(9) == (31)iM_CertifyDay
-<br>memory(10) == (33)iM_EnterEasyBt1_Day (31)iM_CDA1_Day
-<br>memory(11) == (33)iM_EnterEasyBt2_Day (31)iM_CDA2_Day
-<br>memory(12) == (33)iM_EnterEasyBt3_Day (31)iM_CDA3_Day
-<br>memory(13) == (33)iM_EnterEasyBt4_Day (31)iM_CDA4_Day
-<br>onOff(0) == (31)b_HideE
-<br>onOff(1) == (33)b_HideA (31)b_HideT
-<br>onOff(2) == (33)b_HideT (31)b_OnPeriod
-<br>onOff(3) == (33)b_OnPeriod (31)b_HaveOld
-<br>onOff(4) == (31)b_GetDay
-<br>onOff(5) == (33)b_questToDay (31)b_AdsOpen
-<br>onOff(6) == (31)b_AdsToDay
-<br>onOff(7) == (33)b_TestApp (31)b_AdsTest
-<br>onOff(8) == (33)b_adsTestID
-<br>onOff(9) == (33)b_adsBanner
-<br>onOff(10) == (33)b_OnMyAds_Slot1
-<br>onOff(11) == (33)b_OnMyAds_Slot2
-<br>onOff(12) == (33)b_OnMyAds_Slot3
-<br>onOff(13) == (33)b_OnMyAds_Slot4
+[ SFLt - const int ]
+<br>s_Null_2 = 24, s_Null_1 = 23, s_webImage_4E = 22, s_webImage_3E = 21, s_webImage_2E = 20,
+<br>s_webImage_1E = 19, s_webImage_4 = 18, s_webImage_3 = 17, s_webImage_2 = 16, s_webImage_1 = 15,
+<br>s_AdsLetter_4E = 14, s_AdsLetter_3E = 13, s_AdsLetter_2E = 12, s_AdsLetter_1E = 11, s_AdsLetter_4 = 10,
+<br>s_AdsLetter_3 = 9, s_AdsLetter_2 = 8, s_AdsLetter_1 = 7, s_URL_4 = 6, s_URL_3 = 5,
+<br>s_URL_2 = 4, s_URL_1 = 3, s_Notice = 2, s_Letter = 1, s_VerNic = 0,
+<br>
+<br>f_Null_3 = 9, f_Null_2 = 8, f_Null_1 = 7, f_EnterEasyBt4_Value = 6, f_EnterEasyBt3_Value = 5,
+<br>f_EnterEasyBt2_Value = 4, f_EnterEasyBt1_Value = 3, f_Estimate = 2, f_TransEstimate = 1, f_AdsBlocScale = 0,
+<br>
+<br>iS_Null_4 = 24, iS_Null_3 = 23, iS_Null_2 = 22, iS_Null_1 = 21, iS_AutoAP = 20,
+<br>iS_AdsPrize_4 = 19, iS_AdsPrize_3 = 18, iS_AdsPrize_2 = 17, iS_AdsPrize_1 = 16, iS_AdsS4 = 15,
+<br>iS_AdsS3 = 14, iS_AdsS2 = 13, iS_AdsS1 = 12, iS_imSet_BackLB = 11, iS_imSet_BackSCDB = 10,
+<br>iS_OtherFont = 9, iS_MemoFont = 8, iS_BoxFont = 7, iS_Empty_4 = 6, iS_Empty_3 = 5,
+<br>iS_Empty_2 = 4, iS_Empty_1 = 3, iS_AdsLayoutColor = 2, iS_Ver = 1, iS_Language = 0,
+<br>
+<br>iM_Null_1 = 14, iM_EnterEasyBt4_Day = 13, iM_EnterEasyBt3_Day = 12, iM_EnterEasyBt2_Day = 11, iM_EnterEasyBt1_Day = 10,
+<br>iM_CertifyDay = 9, iM_SaveDD = 8, iM_SaveMM = 7, iM_SaveYY = 6, iM_Attend = 5,
+<br>iM_Period = 4, iM_Total = 3, iM_Additional = 2, iM_Earn = 1, iM_Advertise = 0,
+<br>
+<br>b_Null_1 = 9, b_OnMyAds_Slot4 = 8, b_OnMyAds_Slot3 = 7, b_OnMyAds_Slot2 = 6, b_OnMyAds_Slot1 = 5,
+<br>b_adsBanner = 9, b_adsTestID = 8, b_TestApp = 7, b_AdsToDay = 6, b_questToDay = 5,
+<br>b_GetDay = 4, b_OnPeriod = 3, b_HideT = 2, b_HideA = 1, b_HideE = 0;
 <br><hr>
 [ DataBase.cs - 10033 ]
 <br>5 => amo.RewardShow(),
