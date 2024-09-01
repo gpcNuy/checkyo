@@ -17,26 +17,26 @@
 <br><hr>
 [ SFLt - const int ] (99), (99), (99), (99), (99),
 <br>
-<br>(24)s_Null_2, (23)s_Null_1, (22)s_webImage_4E, (21)s_webImage_3E, (20)s_webImage_2E,
+<br>(24), (23), (22)s_webImage_4E, (21)s_webImage_3E, (20)s_webImage_2E,
 <br>(19)s_webImage_1E, (18)s_webImage_4, (17)s_webImage_3, (16)s_webImage_2, (15)s_webImage_1,
 <br>(14)s_AdsLetter_4E, (13)s_AdsLetter_3E, (12)s_AdsLetter_2E, (11)s_AdsLetter_1E, (10)s_AdsLetter_4,
 <br>(9)s_AdsLetter_3, (8)s_AdsLetter_2, (7)s_AdsLetter_1, (6)s_URL_4, (5)s_URL_3,
 <br>(4)s_URL_2, (3)s_URL_1, (2)s_Notice, (1)s_Letter, (0)s_VerNic,
 <br>
-<br>(9)f_Null_3, (8)f_Null_2, (7)f_Null_1, (6)f_EnterEasyBt4_Value, (5)f_EnterEasyBt3_Value,
+<br>(9), (8), (7), (6)f_EnterEasyBt4_Value, (5)f_EnterEasyBt3_Value,
 <br>(4)f_EnterEasyBt2_Value, (3)f_EnterEasyBt1_Value, (2)f_Estimate, (1)f_TransEstimate, (0)f_AdsBlocScale,
 <br>
-<br>(24)iS_Null_4, (23)iS_Null_3, (22)iS_Null_2, (21)iS_Null_1, (20)iS_AutoAP,
+<br>(24), (23), (22), (21), (20)iS_AutoAP,
 <br>(19)iS_AdsPrize_4, (18)iS_AdsPrize_3, (17)iS_AdsPrize_2, (16)iS_AdsPrize_1, (15)iS_AdsS4,
 <br>(14)iS_AdsS3, (13)iS_AdsS2, (12)iS_AdsS1, (11)iS_imSet_BackLB, (10)iS_imSet_BackSCDB,
 <br>(9)iS_OtherFont, (8)iS_MemoFont, (7)iS_BoxFont, (6)iS_Empty_4, (5)iS_Empty_3,
 <br>(4)iS_Empty_2, (3)iS_Empty_1, (2)iS_AdsLayoutColor, (1)iS_Ver, (0)iS_Language,
 <br>
-<br>(14)iM_Null_1, (13)iM_EnterEasyBt4_Day, (12)iM_EnterEasyBt3_Day, (11)iM_EnterEasyBt2_Day, (10)iM_EnterEasyBt1_Day,
+<br>(14), (13)iM_EnterEasyBt4_Day, (12)iM_EnterEasyBt3_Day, (11)iM_EnterEasyBt2_Day, (10)iM_EnterEasyBt1_Day,
 <br>(9)iM_CertifyDay, (8)iM_SaveDD, (7)iM_SaveMM, (6)iM_SaveYY, (5)iM_Attend,
 <br>(4)iM_Period, (3)iM_Total, (2)iM_Additional, (1)iM_Earn, (0)iM_Advertise,
 <br>
-<br>(14)b_Null_1, (13)b_OnMyAds_Slot4, (12)b_OnMyAds_Slot3, (11)b_OnMyAds_Slot2, (10)b_OnMyAds_Slot1,
+<br>(14), (13)b_OnMyAds_Slot4, (12)b_OnMyAds_Slot3, (11)b_OnMyAds_Slot2, (10)b_OnMyAds_Slot1,
 <br>(9)b_adsBanner, (8)b_adsTestID, (7)b_TestApp, (6)b_AdsToDay, (5)b_questToDay,
 <br>(4)b_GetDay, (3)b_OnPeriod, (2)b_HideT, (1)b_HideA, (0)b_HideE;
 <br><hr>
