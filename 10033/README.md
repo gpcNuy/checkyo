@@ -37,7 +37,7 @@
 <br>(4)iM_Period, (3)iM_Total, (2)iM_Additional, (1)iM_Earn, (0)iM_Advertise,
 <br>
 <br>(14), (13)b_OnMyAds_Slot4, (12)b_OnMyAds_Slot3, (11)b_OnMyAds_Slot2, (10)b_OnMyAds_Slot1,
-<br>(9)b_adsBanner, (8)b_adsTestID, (7)b_TestApp, (6)b_AdsToDay, (5)b_questToDay,
+<br>(9)b_adsBanner, (8)b_adsTestID, (7)b_TestApp, (6)b_AdsToday, (5)b_questToday,
 <br>(4)b_GetDay, (3)b_OnPeriod, (2)b_HideT, (1)b_HideA, (0)b_HideE;
 <br><hr>
 [ DataBase.cs - 10033 ]
