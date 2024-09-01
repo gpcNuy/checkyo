@@ -103,7 +103,7 @@
 <br>set(6) == (33)null (31)iS_CDA4_Day
 <br>set(7) == (31)iS_BoxFont
 <br>set(8) == (31)iS_MemoFont
-<br>set(9) == (31)iS_OrtherFont
+<br>set(9) == (31)iS_OtherFont
 <br>set(10) == (31)iS_imSet_BackSCDB
 <br>set(11) == (31)iS_imSet_BackLB
 <br>set(12) == (31)iS_AdsS1
