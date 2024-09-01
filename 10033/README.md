@@ -63,29 +63,29 @@
 <br>(60) == (32)(ListLimit)
 <br>(61) ==
 <br><hr>
-[ SFLt - const int ]
-<br>s_Null_2 = 24, s_Null_1 = 23, s_webImage_4E = 22, s_webImage_3E = 21, s_webImage_2E = 20,
-<br>s_webImage_1E = 19, s_webImage_4 = 18, s_webImage_3 = 17, s_webImage_2 = 16, s_webImage_1 = 15,
-<br>s_AdsLetter_4E = 14, s_AdsLetter_3E = 13, s_AdsLetter_2E = 12, s_AdsLetter_1E = 11, s_AdsLetter_4 = 10,
-<br>s_AdsLetter_3 = 9, s_AdsLetter_2 = 8, s_AdsLetter_1 = 7, s_URL_4 = 6, s_URL_3 = 5,
-<br>s_URL_2 = 4, s_URL_1 = 3, s_Notice = 2, s_Letter = 1, s_VerNic = 0,
+[ SFLt - const int ] (99), (99), (99), (99), (99),
+<br>(24)s_Null_2, (23)s_Null_1, (22)s_webImage_4E, (21)s_webImage_3E, (20)s_webImage_2E,
+<br>(19)s_webImage_1E, (18)s_webImage_4, (17)s_webImage_3, (16)s_webImage_2, (15)s_webImage_1,
+<br>(14)s_AdsLetter_4E, (13)s_AdsLetter_3E, (12)s_AdsLetter_2E, (11)s_AdsLetter_1E, (10)s_AdsLetter_4,
+<br>(9)s_AdsLetter_3, (8)s_AdsLetter_2, (7)s_AdsLetter_1, (6)s_URL_4, (5)s_URL_3,
+<br>(4)s_URL_2, (3)s_URL_1, (2)s_Notice, (1)s_Letter, (0)s_VerNic,
 <br>
-<br>f_Null_3 = 9, f_Null_2 = 8, f_Null_1 = 7, f_EnterEasyBt4_Value = 6, f_EnterEasyBt3_Value = 5,
-<br>f_EnterEasyBt2_Value = 4, f_EnterEasyBt1_Value = 3, f_Estimate = 2, f_TransEstimate = 1, f_AdsBlocScale = 0,
+<br>(9)f_Null_3, (8)f_Null_2, (7)f_Null_1, (6)f_EnterEasyBt4_Value, (5)f_EnterEasyBt3_Value,
+<br>(4)f_EnterEasyBt2_Value, (3)f_EnterEasyBt1_Value, (2)f_Estimate, (1)f_TransEstimate, (0)f_AdsBlocScale,
 <br>
-<br>iS_Null_4 = 24, iS_Null_3 = 23, iS_Null_2 = 22, iS_Null_1 = 21, iS_AutoAP = 20,
-<br>iS_AdsPrize_4 = 19, iS_AdsPrize_3 = 18, iS_AdsPrize_2 = 17, iS_AdsPrize_1 = 16, iS_AdsS4 = 15,
-<br>iS_AdsS3 = 14, iS_AdsS2 = 13, iS_AdsS1 = 12, iS_imSet_BackLB = 11, iS_imSet_BackSCDB = 10,
-<br>iS_OtherFont = 9, iS_MemoFont = 8, iS_BoxFont = 7, iS_Empty_4 = 6, iS_Empty_3 = 5,
-<br>iS_Empty_2 = 4, iS_Empty_1 = 3, iS_AdsLayoutColor = 2, iS_Ver = 1, iS_Language = 0,
+<br>(24)iS_Null_4, (23)iS_Null_3, (22)iS_Null_2, (21)iS_Null_1, (20)iS_AutoAP,
+<br>(19)iS_AdsPrize_4, (18)iS_AdsPrize_3, (17)iS_AdsPrize_2, (16)iS_AdsPrize_1, (15)iS_AdsS4,
+<br>(14)iS_AdsS3, (13)iS_AdsS2, (12)iS_AdsS1, (11)iS_imSet_BackLB, (10)iS_imSet_BackSCDB,
+<br>(9)iS_OtherFont, (8)iS_MemoFont, (7)iS_BoxFont, (6)iS_Empty_4, (5)iS_Empty_3,
+<br>(4)iS_Empty_2, (3)iS_Empty_1, (2)iS_AdsLayoutColor, (1)iS_Ver, (0)iS_Language,
 <br>
-<br>iM_Null_1 = 14, iM_EnterEasyBt4_Day = 13, iM_EnterEasyBt3_Day = 12, iM_EnterEasyBt2_Day = 11, iM_EnterEasyBt1_Day = 10,
-<br>iM_CertifyDay = 9, iM_SaveDD = 8, iM_SaveMM = 7, iM_SaveYY = 6, iM_Attend = 5,
-<br>iM_Period = 4, iM_Total = 3, iM_Additional = 2, iM_Earn = 1, iM_Advertise = 0,
+<br>(14)iM_Null_1, (13)iM_EnterEasyBt4_Day, (12)iM_EnterEasyBt3_Day, (11)iM_EnterEasyBt2_Day, (10)iM_EnterEasyBt1_Day,
+<br>(9)iM_CertifyDay, (8)iM_SaveDD, (7)iM_SaveMM, (6)iM_SaveYY, (5)iM_Attend,
+<br>(4)iM_Period, (3)iM_Total, (2)iM_Additional, (1)iM_Earn, (0)iM_Advertise,
 <br>
-<br>b_Null_1 = 9, b_OnMyAds_Slot4 = 8, b_OnMyAds_Slot3 = 7, b_OnMyAds_Slot2 = 6, b_OnMyAds_Slot1 = 5,
-<br>b_adsBanner = 9, b_adsTestID = 8, b_TestApp = 7, b_AdsToDay = 6, b_questToDay = 5,
-<br>b_GetDay = 4, b_OnPeriod = 3, b_HideT = 2, b_HideA = 1, b_HideE = 0;
+<br>(14)b_Null_1, (13)b_OnMyAds_Slot4, (12)b_OnMyAds_Slot3, (11)b_OnMyAds_Slot2, (10)b_OnMyAds_Slot1,
+<br>(9)b_adsBanner, (8)b_adsTestID, (7)b_TestApp, (6)b_AdsToDay, (5)b_questToDay,
+<br>(4)b_GetDay, (3)b_OnPeriod, (2)b_HideT, (1)b_HideA, (0)b_HideE;
 <br><hr>
 [ DataBase.cs - 10033 ]
 <br>5 => amo.RewardShow(),
