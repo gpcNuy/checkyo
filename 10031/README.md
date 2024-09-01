@@ -1,5 +1,5 @@
 # Version 1.0.31
-<br>sign(0)s_VerNic
+<br>sign(0)s_VerNic [생성시 Sign.Name("CheckYo")]
 <br>sign(1)s_Letter
 <br>sign(2)s_Letter2 [메인 메모]
 <br>sign(3)s_Ebmty2
@@ -23,7 +23,7 @@
 <br>xyz(5)f_CDA3_Value [이지버튼 고정 공수 값]
 <br>xyz(6)f_CDA4_Value [이지버튼 고정 공수 값]
 <br>
-<br>set(0)iS_Language
+<br>set(0)iS_Language [언어 설정]
 <br>set(1)iS_Ver == Ver.Put([현재 앱버전])
 <br>set(2)iS_BackVer
 <br>set(3)iS_CDA1_Day [이지버튼 사용 일- 실 사용]
