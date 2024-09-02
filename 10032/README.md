@@ -3,7 +3,7 @@
 <br>sign(1)s_Letter
 <br>sign(2)s_Letter2 [메인 메모]
 <br>sign(3)s_Ebmty2
-<br>sign(4)s_URL == mList(41)Link_1 [광고 4슬롯 링크]
+<br>sign(4)s_URL == **{mList(51)UseURL}mList(41)Link_1 [광고 4슬롯 링크]
 <br>{db.mList[CheckYo.Link_0 + int.Parse(db.mList[CheckYo.UseURL])];}
 <br>sign(5)s_Ebmty4
 <br>sign(6)s_AdsNotice == mList(4)AppLetter [업뎃 공지]
@@ -76,7 +76,7 @@
 <br>mList(35)Empty9, mList(36)Empty10, mList(37)Empty11, mList(38)Empty12, mList(39)Empty13, 
 <br>mList(40)Link_0, mList(42)Link_2, mList(43)Link_3, mList(44)Link_4, 
 <br>mList(45)Link_5, mList(46)Link_6, mList(47)Link_7, mList(48)Link_8, mList(49)Link_9,
-<br>**mList(51)UseURL, **mList(52)ByteEmpty_2, **mList(53)ByteEmpty_3, **mList(54)ByteEmpty_4, 
+<br>**mList(52)ByteEmpty_2, **mList(53)ByteEmpty_3, **mList(54)ByteEmpty_4, 
 <br>**mList(55)ByteEmpty_5, **mList(56)ByteEmpty_6, **mList(57)ByteEmpty_7, 
 <br>**mList(58)ByteEmpty_8, **mList(59)ByteEmpty_9, **mList(60)ListLimit
 <br><hr>
