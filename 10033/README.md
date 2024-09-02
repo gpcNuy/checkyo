@@ -22,8 +22,8 @@
 <br>**sign(20)s_webImage_2E == mList(7)AdsImage_2E
 <br>**sign(21)s_webImage_3E == mList(9)AdsImage_3E
 <br>**sign(22)s_webImage_4E == mList(11)AdsImage_4E
-<br>**sign(23)(24)(25)
-<br>**sign(26)~(49)s_Memo10 ~ s_Memo45
+<br>**sign(23)(24)(25)(26)(27)(28)(29)
+<br>**sign(30)~(57)s_Memo10 ~ s_Memo45
 <br>
 <br>xyz(0){f_AdsBlocScale}f_Estimate == mList(31)AdsBlocScale [공수 월 통합 배율]
 <br>xyz(1)f_TransEstimate [공수 증감량]
@@ -49,11 +49,11 @@
 <br>set(13){iS_AdsVerify_2}iS_AdsS2 == {mList(33)AdsVerify_2}(32)AdsS2 [애드몹 광고 스위치 번호]
 <br>set(14){iS_AdsVerify_3}iS_AdsS3 == {mList(34)AdsVerify_3}(33)AdsS3 [애드몹 광고 스위치 번호]
 <br>set(15){iS_AdsVerify_4}iS_AdsS4 == {mList(35)AdsVerify_4}(34)AdsS4 [애드몹 광고 스위치 번호]
-<br>set(16){iS_AdsPrize_1}iS_AdsPrize == {mList(36)AdsPrize_1}(30)AdsPrize [4슬롯 보상 AP]
-<br>set(17){iS_AdsPrize_2}iS_AutoAP == {mList(37)AdsPrize_2}(50)AutoAP [AP 자동 축적]
-<br>set(18){iS_AdsPrize_3}iS_UseURL == mList(38)AdsPrize_3
-<br>**set(19)iS_AdsPrize_4 == mList(39)AdsPrize_4
-<br>**set(20)iS_AutoAP == mList(50)AutoAP
+<br>set(16){iS_AdsPrize_1}iS_AdsPrize == {mList(36)AdsPrize_1}(30)AdsPrize [4슬롯 보상 AP=>1슬롯 보상 AP]
+<br>set(17){iS_AdsPrize_2}iS_AutoAP == {mList(37)AdsPrize_2}(50)AutoAP [AP 자동 축적=>2슬롯 보상 AP]
+<br>set(18){iS_AdsPrize_3}iS_UseURL == mList(38)AdsPrize_3 [=>3슬롯 보상 AP]
+<br>**set(19)iS_AdsPrize_4 == mList(39)AdsPrize_4 [4슬롯 보상 AP]
+<br>**set(20)iS_AutoAP == mList(50)AutoAP [AP 자동 축적]
 <br>
 <br>memory(0)iM_Advertise [광고 포인트(AP)]
 <br>memory(1)iM_Earn [일일 공수(일 단가)]
