@@ -99,105 +99,27 @@
 <br><hr>
 [ NColor ]
 <br>ushot.MaxValue => NColor.BlurDeep,
-<br>110 => NColor.Blur,
-<br>99 => NColor.WhiteGray,
-<br>98 => NColor.GrayWhite,
-<br>97 => NColor.GrayRight,
-<br>96 => NColor.GrayUp,
-<br>95 => NColor.,
-<br>94 => NColor.Gray,
-<br>93 => NColor.,
-<br>92 => NColor.GrayDark,
-<br>91 => NColor.BlackUp,
-<br>90 => NColor.,
-<br>89 => NColor.GreenLimit,
-<br>88 => NColor.GreenRight,
-<br>87 => NColor.,
-<br>86 => NColor.GreenUp,
-<br>85 => NColor.GreenSimple,
-<br>84 => NColor.Green,
-<br>83 => NColor.GreenMix,
-<br>82 => NColor.,
-<br>81 => NColor.,
-<br>80 => NColor.,
-<br>79 => NColor.BlueLimit,
-<br>78 => NColor.BlueSky,
-<br>77 => NColor.BlueJean,
-<br>76 => NColor.BlueUp,
-<br>75 => NColor.,
-<br>74 => NColor.Blue,
-<br>73 => NColor.BlueMix,
-<br>72 => NColor.,
-<br>71 => NColor.,
-<br>70 => NColor.,
-<br>69 => NColor.RedLimit,
-<br>68 => NColor.RedRight,
-<br>67 => NColor.,
-<br>66 => NColor.RedUp,
-<br>65 => NColor.,
-<br>64 => NColor.Red,
-<br>63 => NColor.RedMix,
-<br>62 => NColor.,
-<br>61 => NColor.,
-<br>60 => NColor.,
-<br>59 => NColor.BrownUpSkin,
-<br>58 => NColor.BrownSkin,
-<br>57 => NColor.BrownDeepSkin,
-<br>56 => NColor.BrownUp,
-<br>55 => NColor.BrownSimple,
-<br>54 => NColor.Brown,
-<br>53 => NColor.BrownMix,
-<br>52 => NColor.BrownDeep,
-<br>51 => NColor.BrownDark,
-<br>50 => NColor.BrownDeepDark,
-<br>49 => NColor.YellowLimit,
-<br>48 => NColor.YellowRight,
-<br>47 => NColor.YellowJean,
-<br>46 => NColor.YellowUp,
-<br>45 => NColor.YellowSimple,
-<br>44 => NColor.Yellow,
-<br>43 => NColor.YellowMix,
-<br>42 => NColor.YellowDeep,
-<br>41 => NColor.,
-<br>40 => NColor.,
-<br>39 => NColor.PurpleLimit,
-<br>38 => NColor.,
-<br>37 => NColor.,
-<br>36 => NColor.,
-<br>35 => NColor.,
-<br>34 => NColor.,
-<br>33 => NColor.,
-<br>32 => NColor.,
-<br>31 => NColor.,
-<br>30 => NColor.,
-<br>29 => NColor.AquaLimit,
-<br>28 => NColor.,
-<br>27 => NColor.,
-<br>26 => NColor.,
-<br>25 => NColor.,
-<br>24 => NColor.,
-<br>23 => NColor.,
-<br>22 => NColor.,
-<br>21 => NColor.,
-<br>20 => NColor.,
-<br>19 => NColor.Luz_250,
-<br>18 => NColor.Luz_240,
-<br>17 => NColor.Luz_220,
-<br>16 => NColor.Luz_200,
-<br>15 => NColor.Luz_150,
-<br>14 => NColor.Luz_100,
-<br>13 => NColor.,
-<br>12 => NColor.Luz_50,
-<br>11 => NColor.Luz_20,
-<br>10 => NColor.Luz_0,
-<br>9 => NColor.Placeholder,
-<br>8 => NColor.,
-<br>7 => NColor.,
-<br>6 => NColor.,
-<br>5 => NColor.,
-<br>4 => NColor.,
-<br>3 => NColor.,
-<br>2 => Color.White,
-<br>1 => Color.Black,
-<br>_ => Color.Clear,
+<br>{110) Blur }
+<br>{109) }{108) }{107) }{106) }{105) }
+<br>{104) }{103) }{102) }{101) }{100) }
+<br>{99) WhiteGray }{98) GrayWhite }{97) GrayRight }{96) GrayUp }{95) }
+<br>{94) Gray }{93) }{92) GrayDark }{91) BlackUp }{90) }
+<br>{89) GreenLimit }{88) GreenRight }{87) }{86) GreenUp }{85) GreenSimple }
+<br>{84) Green }{83) GreenMix }{82) }{81) }{80) }
+<br>{79) BlueLimit }{78) BlueSky }{77) BlueJean }{76) BlueUp }{75) }
+<br>{74) Blue }{73) BlueMix }{72) }{71) }{70) }
+<br>{69) RedLimit }{68) RedRight }{67) }{66) RedUp }{65) }
+<br>{64) Red }{63) RedMix }{62) }{61) }{60) }
+<br>{59) BrownUpSkin }{58) BrownSkin }{57) BrownDeepSkin }{56) BrownUp }{55) BrownSimple }
+<br>{54) Brown }{53) BrownMix }{52) BrownDeep }{51) BrownDark }{50) BrownDeepDark }
+<br>{49) YellowLimit }{48) YellowRight }{47) YellowJean }{46) YellowUp }{45) YellowSimple }
+<br>{44) Yellow }{43) YellowMix }{42) YellowDeep }{41) }{40) }
+<br>{39) PurpleLimit }{38) }{37) }{36) }{35) }
+<br>{34) }{33) }{32) }{31) }{30) }
+<br>{29) AquaLimit }{28) }{27) }{26) }{25) }
+<br>{24) }{23) }{22) }{21) }{20) }
+<br>{19) Luz_250 }{18) Luz_240 }{17) Luz_220 }{16) Luz_200 }{15) Luz_150 }
+<br>{14) Luz_100 }{13) }{12) Luz_50 }{11) Luz_20 }{10) Luz_0 }
+<br>{9) Placeholder }{8) }{7) }{6) }{5) }
+<br>{4) }{3) }{2) White }{1) Black }{0) Clear }
 <br><hr>
