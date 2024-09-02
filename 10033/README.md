@@ -43,10 +43,10 @@
 <br>set(9)iS_OtherFont
 <br>set(10)iS_imSet_BackSCDB [배경색 설정]
 <br>set(11)iS_imSet_BackLB [배경판 색 설정]
-<br>set(12)iS_AdsS1 == {mList(32)AdsVerify_1}(31)AdsS1 [애드몹 광고 스위치 번호]
-<br>set(13)iS_AdsS2 == {mList(33)AdsVerify_2}(32)AdsS2 [애드몹 광고 스위치 번호]
-<br>set(14)iS_AdsS3 == {mList(34)AdsVerify_3}(33)AdsS3 [애드몹 광고 스위치 번호]
-<br>set(15)iS_AdsS4 == {mList(35)AdsVerify_4}(34)AdsS4
+<br>set(12){iS_AdsVerify_1}iS_AdsS1 == {mList(32)AdsVerify_1}(31)AdsS1 [애드몹 광고 스위치 번호]
+<br>set(13){iS_AdsVerify_2}iS_AdsS2 == {mList(33)AdsVerify_2}(32)AdsS2 [애드몹 광고 스위치 번호]
+<br>set(14){iS_AdsVerify_3}iS_AdsS3 == {mList(34)AdsVerify_3}(33)AdsS3 [애드몹 광고 스위치 번호]
+<br>set(15){iS_AdsVerify_4}iS_AdsS4 == {mList(35)AdsVerify_4}(34)AdsS4 [애드몹 광고 스위치 번호]
 <br>set(16){iS_AdsPrize_1}iS_AdsPrize == {mList(36)AdsPrize_1}(30)AdsPrize [4슬롯 보상 AP]
 <br>set(17){iS_AdsPrize_2}iS_AutoAP == {mList(37)AdsPrize_2}(50)AutoAP [AP 자동 축적]
 <br>set(18){iS_AdsPrize_3}iS_UseURL == mList(38)AdsPrize_3
