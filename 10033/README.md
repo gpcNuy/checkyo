@@ -75,15 +75,15 @@
 <br>onOff(2){b_HideT}b_OnPeriod [월 계산 사용 여부]
 <br>onOff(3){b_OnPeriod}b_HaveOld
 <br>onOff(4)b_GetDay [턴 데이 세이브 파일 체크]
-<br>onOff(5){b_questToday}b_AdsOpen == {not link}mList(21)AdsOpen [광고 4슬롯 사용 여부]
+<br>onOff(5){b_questToday}b_AdsOpen == {not link}mList(21)AdsOpen [광고 4슬롯 사용 여부=>미확정]
 <br>onOff(6)b_AdsToday == {not link}mList(20)AdsTest [광고 4슬롯 일일 체크]
-<br>onOff(7){b_TestApp}b_AdsTest == mList(20)TestApp [광고 4슬롯 설명/언어 선택]
-<br>**onOff(8)b_adsTestID == mList(21)AdsRialID
-<br>**onOff(9)b_adsBanner == mList(22)AdsBanner
-<br>**onOff(10)b_OnMyAds_Slot1 == mList(23)OnMyAds_Slot1
-<br>**onOff(11)b_OnMyAds_Slot2 == mList(24)OnMyAds_Slot2
-<br>**onOff(12)b_OnMyAds_Slot3 == mList(25)OnMyAds_Slot3
-<br>**onOff(13)b_OnMyAds_Slot4 == mList(26)OnMyAds_Slot4
+<br>onOff(7){b_TestApp}b_AdsTest == **mList(20)TestApp [광고 4슬롯 설명/언어 선택=>테스트앱]
+<br>**onOff(8)b_adsTestID == mList(21)AdsRialID [애드몹 리얼광고 여부]
+<br>**onOff(9)b_adsBanner == mList(22)AdsBanner [배너 사용 여부]
+<br>**onOff(10)b_OnMyAds_Slot1 == mList(23)OnMyAds_Slot1 [광고1 자체 링크 사용 여부]
+<br>**onOff(11)b_OnMyAds_Slot2 == mList(24)OnMyAds_Slot2 [광고2 자체 링크 사용 여부]
+<br>**onOff(12)b_OnMyAds_Slot3 == mList(25)OnMyAds_Slot3 [광고3 자체 링크 사용 여부]
+<br>**onOff(13)b_OnMyAds_Slot4 == mList(26)OnMyAds_Slot4 [광고4 자체 링크 사용 여부]
 <br><hr>
 <br>(64), (63), (62), (61), (60)ListLimit,
 <br>(59)ByteEmpty5, (58)ByteEmpty4, (57)ByteEmpty3, (56)ByteEmpty2, (55)ByteEmpty1,
