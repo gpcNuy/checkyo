@@ -41,8 +41,8 @@
 <br>set(14)iS_AdsS3 == mList(33)AdsS3 [애드몹 광고 스위치 번호]
 <br>set(15)iS_AdsS4 == mList(34)AdsS4
 <br>set(16)iS_AdsPrize == mList(30)AdsPrize [4슬롯 보상 AP]
-<br>*set(17)iS_AutoAP == mList(50)AutoAP [AP 자동 축적]
-<br>*set(18)iS_UseURL
+<br>**set(17)iS_AutoAP == mList(50)AutoAP [AP 자동 축적]
+<br>**set(18)iS_UseURL
 <br>
 <br>memory(0)iM_Advertise [광고 포인트(AP)]
 <br>memory(1)iM_Earn [일일 공수(일 단가)]
@@ -65,8 +65,8 @@
 <br>onOff(3)b_HaveOld
 <br>onOff(4)b_GetDay [턴 데이 세이브 파일 체크]
 <br>onOff(5)b_AdsOpen == mList(21)AdsOpen [광고 4슬롯 사용 여부]
-<br>onOff(6)b_AdsToday == *{mList(20)AdsTest} [광고 4슬롯 일일 체크]
-<br>*onOff(7)b_AdsTest == [광고 4슬롯 설명/언어 선택]
+<br>onOff(6)b_AdsToday == **{mList(20)AdsTest} [광고 4슬롯 일일 체크]
+<br>**onOff(7)b_AdsTest == [광고 4슬롯 설명/언어 선택]
 <br><hr>
 <br>mList(0)AppNull, mList(1)AppName, mList(2)AppVersion, mList(3)AppNotice, 
 <br>mList(5)Empty2, mList(6)Empty3, mList(7)Empty4, mList(8)Empty5, 
@@ -76,9 +76,9 @@
 <br>mList(35)Empty9, mList(36)Empty10, mList(37)Empty11, mList(38)Empty12, mList(39)Empty13, 
 <br>mList(40)Link_0, mList(42)Link_2, mList(43)Link_3, mList(44)Link_4, 
 <br>mList(45)Link_5, mList(46)Link_6, mList(47)Link_7, mList(48)Link_8, mList(49)Link_9,
-<br>*mList(51)UseURL, *mList(52)ByteEmpty_2, *mList(53)ByteEmpty_3, *mList(54)ByteEmpty_4, 
-<br>*mList(55)ByteEmpty_5, *mList(56)ByteEmpty_6, *mList(57)ByteEmpty_7, 
-<br>*mList(58)ByteEmpty_8, *mList(59)ByteEmpty_9, *mList(60)ListLimit
+<br>**mList(51)UseURL, **mList(52)ByteEmpty_2, **mList(53)ByteEmpty_3, **mList(54)ByteEmpty_4, 
+<br>**mList(55)ByteEmpty_5, **mList(56)ByteEmpty_6, **mList(57)ByteEmpty_7, 
+<br>**mList(58)ByteEmpty_8, **mList(59)ByteEmpty_9, **mList(60)ListLimit
 <br><hr>
 <br>[ DataBase.cs - 1.0.32 ]
 <br>1 => amo.RandomAdmob_RF_FV(),
