@@ -22,8 +22,8 @@
 <br>**sign(20)s_webImage_2E == mList(7)AdsImage_2E
 <br>**sign(21)s_webImage_3E == mList(9)AdsImage_3E
 <br>**sign(22)s_webImage_4E == mList(11)AdsImage_4E
-<br>**sign(23)(24)(25)(26)(27)(28)(29)(30)
-<br>**sign(31)~(70)
+<br>**sign(23)(24)(25)
+<br>**sign(26)~(49)s_Memo10 ~ s_Memo45
 <br>
 <br>xyz(0){f_AdsBlocScale}f_Estimate == mList(31)AdsBlocScale [공수 월 통합 배율]
 <br>xyz(1)f_TransEstimate [공수 증감량]
