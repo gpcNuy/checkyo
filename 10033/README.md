@@ -1,5 +1,5 @@
 # version 1.0.33
-<br>sign(0)s_VerNic [생성시 Sign.Name("CheckYo")]
+<br>sign(0)s_VerNic [생성시 Sign.AppName("CheckYo")]
 <br>sign(1)s_Letter == mList(1)AppName
 <br>sign(2){s_Notice}s_Letter2 == mList(3)AppNotice [메인 메모]
 <br>sign(3){s_URL_1}s_Ebmty2 == mList(51)UseURL_1
