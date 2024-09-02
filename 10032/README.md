@@ -66,7 +66,7 @@
 <br>onOff(4)b_GetDay [턴 데이 세이브 파일 체크]
 <br>onOff(5)b_AdsOpen == mList(21)AdsOpen [광고 4슬롯 사용 여부]
 <br>onOff(6)b_AdsToday == *{mList(20)AdsTest} [광고 4슬롯 일일 체크]
-<br>*onOff(7)b_AdsTest == [*광고 4슬롯 설명/언어 선택]
+<br>*onOff(7)b_AdsTest == [광고 4슬롯 설명/언어 선택]
 <br><hr>
 <br>mList(0)AppNull, mList(1)AppName, mList(2)AppVersion, mList(3)AppNotice, 
 <br>mList(5)Empty2, mList(6)Empty3, mList(7)Empty4, mList(8)Empty5, 
