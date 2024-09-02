@@ -1,6 +1,6 @@
 # Version 1.0.32
 <br>sign(0)s_VerNic [생성시 Sign.Name("CheckYo")]
-<br>sign(1)s_Letter
+<br>sign(1)s_Letter [구버전 메인 메모]
 <br>sign(2)s_Letter2 [메인 메모]
 <br>sign(3)s_Ebmty2
 <br>sign(4)s_URL == **{mList(51)UseURL}mList(41)Link_1 [광고 4슬롯 링크]
