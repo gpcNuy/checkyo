@@ -87,7 +87,8 @@
 <br>(59)ByteEmpty5, (58)ByteEmpty4, (57)ByteEmpty3, (56)ByteEmpty2, (55)ByteEmpty1,
 <br>(49)Link_9, (48)Link_8, (47)Link_7, (46)Link_6, (45)Link_5,
 <br>(44)Link_4, (43)Link_3, (42)Link_2, (41)Link_1, (40)Link_0,
-<br>(29)OnEmpty3, (28)OnEmpty2, (27)OnEmpty1, (2)AppVersion, (0)AppNull
+<br>(29)OnEmpty3, (28)OnEmpty2, (27)OnEmpty1,
+<br>db.mList(2)AppVersion == needUpdate[업데이트 체크], (0)AppNull
 <br><hr>
 <br>[ DataBase.cs - 1.0.33 ]
 <br>5 => amo.RewardShow(),
