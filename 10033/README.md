@@ -1,10 +1,10 @@
 # version 1.0.33
 <br>sign(0)s_VerNic [생성시 Sign.AppName("CheckYo")]
-<br>sign(1)s_Letter == mList(1)AppName
+<br>sign(1)s_Letter == mList(1)AppName [사용 보류]
 <br>sign(2){s_Notice}s_Letter2 == mList(3)AppNotice [메인 메모=>업뎃 공지]
-<br>sign(3){s_URL_1}s_Ebmty2 == mList(51)UseURL_1
+<br>sign(3){s_URL_1}s_Ebmty2 == mList(51)UseURL_1 [광고 1슬롯 링크]
 <br>sign(4){s_URL_2}s_URL == {mList(52)UseURL_2}(51)UseURL [광고 4슬롯 링크=>광고 2슬롯 링크]
-<br>sign(5){s_URL_3}s_Ebmty4 == mList(53)UseURL_3
+<br>sign(5){s_URL_3}s_Ebmty4 == mList(53)UseURL_3 [광고 3슬롯 링크]
 <br>sign(6){s_URL_4}s_AdsNotice == {mList(54)UseURL_4}(4)AppLetter [업뎃 공지=>광고 4슬롯 링크]
 <br>sign(7){s_AdsLetter_1}s_AdsL1 == mList(12){AdsLetter_1}AdsL1 [광고 슬롯 설명]
 <br>sign(8){s_AdsLetter_2}s_AdsL2 == mList(14){AdsLetter_2}AdsL2 [광고 슬롯 설명]
@@ -14,18 +14,18 @@
 <br>sign(12){s_AdsLetter_2E}s_AdsL2E == mList(15){AdsLetter_2E}AdsL2E [광고 슬롯 설명]
 <br>sign(13){s_AdsLetter_3E}s_AdsL3E == mList(17){AdsLetter_3E}AdsL3E [광고 슬롯 설명]
 <br>sign(14){s_AdsLetter_4E}s_AdsL4E == mList(19){AdsLetter_4E}AdsL4E [광고 슬롯 설명]
-<br>**sign(15)s_webImage_1 == mList(4)AdsImage_1
-<br>**sign(16)s_webImage_2 == mList(6)AdsImage_2
-<br>**sign(17)s_webImage_3 == mList(8)AdsImage_3
-<br>**sign(18)s_webImage_4 == mList(10)AdsImage_4
-<br>**sign(19)s_webImage_1E == mList(5)AdsImage_1E
-<br>**sign(20)s_webImage_2E == mList(7)AdsImage_2E
-<br>**sign(21)s_webImage_3E == mList(9)AdsImage_3E
-<br>**sign(22)s_webImage_4E == mList(11)AdsImage_4E
+<br>**sign(15)s_webImage_1 == mList(4)AdsImage_1 [광고1 슬롯 한글판 이미지 변환]
+<br>**sign(16)s_webImage_2 == mList(6)AdsImage_2 [광고2 슬롯 한글판 이미지 변환]
+<br>**sign(17)s_webImage_3 == mList(8)AdsImage_3 [광고3 슬롯 한글판 이미지 변환]
+<br>**sign(18)s_webImage_4 == mList(10)AdsImage_4 [광고4 슬롯 한글판 이미지 변환]
+<br>**sign(19)s_webImage_1E == mList(5)AdsImage_1E [광고1 슬롯 영문판 이미지 변환]
+<br>**sign(20)s_webImage_2E == mList(7)AdsImage_2E [광고2 슬롯 영문판 이미지 변환]
+<br>**sign(21)s_webImage_3E == mList(9)AdsImage_3E [광고3 슬롯 영문판 이미지 변환]
+<br>**sign(22)s_webImage_4E == mList(11)AdsImage_4E [광고4 슬롯 영문판 이미지 변환]
 <br>**sign(23)(24)(25)(26)(27)(28)(29)
-<br>**sign(30)~(57)s_Memo10 ~ s_Memo45
+<br>**sign(30)~(57)s_Memo10 ~ s_Memo45 [메모판 메모]
 <br>
-<br>xyz(0){f_AdsBlocScale}f_Estimate == mList(31)AdsBlocScale [공수 월 통합 배율]
+<br>xyz(0){f_AdsBlocScale}f_Estimate == mList(31)AdsBlocScale [공수 월 통합 배율=>배너 공간 크기]
 <br>xyz(1)f_TransEstimate [공수 증감량]
 <br>xyz(2){f_Estimate}f_empty [**공수 월 통합 배율]
 <br>xyz(3){f_EnterEasyBt1_Value}f_CDA1_Value [이지버튼 고정 공수 값]
