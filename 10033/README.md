@@ -78,7 +78,7 @@
 <br>onOff(5){b_questToday}b_AdsOpen == {not link}mList(21)AdsOpen [광고 4슬롯 사용 여부=>미확정]
 <br>onOff(6)b_AdsToday == {not link}mList(20)AdsTest [광고 4슬롯 일일 체크]
 <br>onOff(7){b_TestApp}b_AdsTest == **mList(20)TestApp [광고 4슬롯 설명/언어 선택=>테스트앱]
-<br>**onOff(8)b_adsTestID == mList(21)AdsRialID [애드몹 리얼광고 여부]
+<br>**onOff(8)b_adsTestID == mList(21)AdsTestID [애드몹 리얼광고 여부]
 <br>**onOff(9)b_adsBanner == mList(22)AdsBanner [배너 사용 여부]
 <br>**onOff(10)b_OnMyAds_Slot1 == mList(23)OnMyAds_Slot1 [광고1 자체 링크 사용 여부]
 <br>**onOff(11)b_OnMyAds_Slot2 == mList(24)OnMyAds_Slot2 [광고2 자체 링크 사용 여부]
