@@ -14,14 +14,14 @@
 <br>sign(12){s_AdsLetter_2E}s_AdsL2E == mList(15){AdsLetter_2E}AdsL2E [**광고 슬롯 설명]
 <br>sign(13){s_AdsLetter_3E}s_AdsL3E == mList(17){AdsLetter_3E}AdsL3E [**광고 슬롯 설명]
 <br>sign(14){s_AdsLetter_4E}s_AdsL4E == mList(19){AdsLetter_4E}AdsL4E [**광고 슬롯 설명]
-<br>**sign(15)s_webImage_1 == mList(4)AdsImage_1 [광고1 슬롯 한글판 이미지 변환]
-<br>**sign(16)s_webImage_2 == mList(6)AdsImage_2 [광고2 슬롯 한글판 이미지 변환]
-<br>**sign(17)s_webImage_3 == mList(8)AdsImage_3 [광고3 슬롯 한글판 이미지 변환]
-<br>**sign(18)s_webImage_4 == mList(10)AdsImage_4 [광고4 슬롯 한글판 이미지 변환]
-<br>**sign(19)s_webImage_1E == mList(5)AdsImage_1E [광고1 슬롯 영문판 이미지 변환]
-<br>**sign(20)s_webImage_2E == mList(7)AdsImage_2E [광고2 슬롯 영문판 이미지 변환]
-<br>**sign(21)s_webImage_3E == mList(9)AdsImage_3E [광고3 슬롯 영문판 이미지 변환]
-<br>**sign(22)s_webImage_4E == mList(11)AdsImage_4E [광고4 슬롯 영문판 이미지 변환]
+<br>**sign(15)s_WebImage_1 == mList(4)AdsImage_1 [광고1 슬롯 한글판 이미지 변환]
+<br>**sign(16)s_WebImage_2 == mList(6)AdsImage_2 [광고2 슬롯 한글판 이미지 변환]
+<br>**sign(17)s_WebImage_3 == mList(8)AdsImage_3 [광고3 슬롯 한글판 이미지 변환]
+<br>**sign(18)s_WebImage_4 == mList(10)AdsImage_4 [광고4 슬롯 한글판 이미지 변환]
+<br>**sign(19)s_WebImage_1E == mList(5)AdsImage_1E [광고1 슬롯 영문판 이미지 변환]
+<br>**sign(20)s_WebImage_2E == mList(7)AdsImage_2E [광고2 슬롯 영문판 이미지 변환]
+<br>**sign(21)s_WebImage_3E == mList(9)AdsImage_3E [광고3 슬롯 영문판 이미지 변환]
+<br>**sign(22)s_WebImage_4E == mList(11)AdsImage_4E [광고4 슬롯 영문판 이미지 변환]
 <br>**sign(23)(24)(25)(26)(27)(28)(29)
 <br>**sign(30)~(57)s_Memo10 ~ s_Memo45 [메모판 메모]
 <br>
@@ -43,8 +43,8 @@
 <br>set(7)iS_BoxFont [스케줄러 시박스 폰트 크기]
 <br>set(8)iS_MemoFont
 <br>set(9)iS_OtherFont
-<br>set(10)iS_imSet_BackSCDB [배경색 설정]
-<br>set(11)iS_imSet_BackLB [배경판 색 설정]
+<br>set(10)iS_ImSet_BackSCDB [배경색 설정]
+<br>set(11)iS_ImSet_BackLB [배경판 색 설정]
 <br>set(12){iS_AdsVerify_1}iS_AdsS1 == {mList(32)AdsVerify_1}(31)AdsS1 [애드몹 광고 스위치 번호]
 <br>set(13){iS_AdsVerify_2}iS_AdsS2 == {mList(33)AdsVerify_2}(32)AdsS2 [애드몹 광고 스위치 번호]
 <br>set(14){iS_AdsVerify_3}iS_AdsS3 == {mList(34)AdsVerify_3}(33)AdsS3 [애드몹 광고 스위치 번호]
