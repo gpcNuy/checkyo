@@ -69,6 +69,9 @@
 <br>memory(11){iM_EnterEasyBt2_Day}iM_CDA2_Day [이지버튼 사용 일- 복사=>실 사용]
 <br>memory(12){iM_EnterEasyBt3_Day}iM_CDA3_Day [이지버튼 사용 일- 복사=>실 사용]
 <br>memory(13){iM_EnterEasyBt4_Day}iM_CDA4_Day [이지버튼 사용 일- 복사=>실 사용]
+<br>memory(14)iM_NoteSlot2 [노트패드 2슬롯 사용 기간]
+<br>memory(15)iM_NoteSlot3 [노트패드 3슬롯 사용 기간]
+<br>memory(16)iM_NoteSlot4 [노트패드 4슬롯 사용 기간]
 <br>
 <br>onOff(0)b_HideE [일 단가 보기/가리기]
 <br>onOff(1){b_HideA}b_HideT [통합 금액 보기/가리기]
