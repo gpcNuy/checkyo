@@ -97,35 +97,52 @@
 <br><hr>
 <br>[ DataBase.cs - 1.0.33 ]
 <br>5 => amo.RewardShow(),
-<br>4 => {amo.RewaFVShow()}amo.RandomAdmob_R_RF(),
+<br>4 => amo.RewaFVShow() {amo.RandomAdmob_R_RF()},
 <br>3 => amo.FullViewShow(),
-<br>2 => {amo.RandomAdmob_R_RF()}amo.RewaFVShow(),
+<br>2 => amo.RandomAdmob_R_RF() {amo.RewaFVShow()},
 <br>1 => amo.RandomAdmob_RF_FV(),
 <br>_ => false,
 <br><hr>
-[ NColor ]
+<br>[ NColor ]
 <br>ushot.MaxValue => NColor.BlurDeep,
+<br>{65109) }{65108) }{65107) }{65106) }{65105) }
+<br>{65104) }{65103) }{65102) }{65101) }{65100) }
+<br>{195) Gray_Luz }{185) Green_Luz }{175) Blue_Luz }{165) Red_Luz }{155) Brown_Luz }
+<br>{145) Yellow_Luz }{135) Purple_Luz }{125) Aqua_Luz }{115) Black_Luz }
 <br>{110) Blur }
-<br>{109) }{108) }{107) }{106) }{105) }
-<br>{104) }{103) }{102) }{101) }{100) }
 <br>{99) WhiteGray }{98) GrayWhite }{97) GrayRight }{96) GrayUp }{95) }
 <br>{94) Gray }{93) }{92) GrayDark }{91) BlackUp }{90) }
-<br>{89) GreenLimit }{88) GreenRight }{87) }{86) GreenUp }{85) GreenSimple }
-<br>{84) Green }{83) GreenMix }{82) }{81) }{80) }
-<br>{79) BlueLimit }{78) BlueSky }{77) BlueJean }{76) BlueUp }{75) }
-<br>{74) Blue }{73) BlueMix }{72) }{71) }{70) }
-<br>{69) RedLimit }{68) RedRight }{67) }{66) RedUp }{65) }
-<br>{64) Red }{63) RedMix }{62) }{61) }{60) }
+<br>{89) GreenLimit }{88) GreenRight }{87) GreenUp }{86) GreenSmog }{85) GreenSimple }
+<br>{84) Green }{83) GreenMix }{82) GreenWood }{81) GreenJungle }{80) GreenDeepDark }
+<br>{79) BlueLimit }{78) BlueSky }{77) BlueJean }{76) BlueUp }{75) BlueSea }
+<br>{74) Blue }{73) BlueMix }{72) BlueNight }{71) BlueDeep }{70) BlueDeepDark }
+<br>{69) RedLimit }{68) RedRight }{67) RedUp }{66) RedSkin }{65) RedMix }
+<br>{64) Red }{63) RedTomato }{62) RedJean }{61) RedBlood }{60) RedDeepDark }
 <br>{59) BrownUpSkin }{58) BrownSkin }{57) BrownDeepSkin }{56) BrownUp }{55) BrownSimple }
 <br>{54) Brown }{53) BrownMix }{52) BrownDeep }{51) BrownDark }{50) BrownDeepDark }
-<br>{49) YellowLimit }{48) YellowRight }{47) YellowJean }{46) YellowUp }{45) YellowSimple }
-<br>{44) Yellow }{43) YellowMix }{42) YellowDeep }{41) }{40) }
-<br>{39) PurpleLimit }{38) }{37) }{36) }{35) }
-<br>{34) }{33) }{32) }{31) }{30) }
-<br>{29) AquaLimit }{28) }{27) }{26) }{25) }
-<br>{24) }{23) }{22) }{21) }{20) }
+<br>{49) YellowLimit }{48) YellowRight }{47) Yellow }{46) YellowUp }{45) YellowSimple }
+<br>{44) YellowJean }{43) YellowMix }{42) YellowGold }{41) YellowDeep }{40) YellowDeepDark }
+<br>{39) PurpleLimit }{38) }{37) }{36) }{35) Purple }
+<br>{34) }{33) }{32) }{31) PurpleDeep }{30) }
+<br>{29) AquaLimit }{28) }{27) }{26) }{25) Aqua }
+<br>{24) }{23) }{22) }{21) AquaDeep }{20) }
 <br>{19) Luz_250 }{18) Luz_240 }{17) Luz_220 }{16) Luz_200 }{15) Luz_150 }
 <br>{14) Luz_100 }{13) }{12) Luz_50 }{11) Luz_20 }{10) Luz_0 }
 <br>{9) Placeholder }{8) }{7) }{6) }{5) }
 <br>{4) }{3) }{2) White }{1) Black }{0) Clear }
+<br><hr>
+<br>[ CheckYo ]
+<br>ListLimit = 60,
+<br>ByteEmpty5 = 59, ByteEmpty4 = 58, ByteEmpty3 = 57, ByteEmpty2 = 56, ByteEmpty1 = 55,
+<br>UseURL_4 = 54, UseURL_3 = 53, UseURL_2 = 52, UseURL_1 = 51, AutoAP = 50,
+<br>Link_9 = 49, Link_8 = 48, Link_7 = 47, Link_6 = 46, Link_5 = 45,
+<br>Link_4 = 44, Link_3 = 43, Link_2 = 42, Link_1 = 41, Link_0 = 40,
+<br>AdsPrize_4 = 39, AdsPrize_3 = 38, AdsPrize_2 = 37, AdsPrize_1 = 36, AdsVerify_4 = 35,
+<br>AdsVerify_3 = 34, AdsVerify_2 = 33, AdsVerify_1 = 32, AdsBlocScale = 31, AdsLayoutColor = 30,
+<br>OnEmpty3 = 29, OnEmpty2 = 28, OnEmpty1 = 27, OnMyAds_Slot4 = 26, OnMyAds_Slot3 = 25,
+<br>OnMyAds_Slot2 = 24, OnMyAds_Slot1 = 23, AdsBanner = 22, AdsTestID = 21, TestApp = 20,
+<br>AdsLetter_4E = 19, AdsLetter_4 = 18, AdsLetter_3E = 17, AdsLetter_3 = 16, AdsLetter_2E = 15,
+<br>AdsLetter_2 = 14, AdsLetter_1E = 13, AdsLetter_1 = 12, AdsImage_4E = 11, AdsImage_4 = 10,
+<br>AdsImage_3E = 9, AdsImage_3 = 8, AdsImage_2E = 7, AdsImage_2 = 6, AdsImage_1E = 5,
+<br>AdsImage_1 = 4, AppNotice = 3, AppVersion = 2, AppName = 1, AppNull = 0;
 <br><hr>
