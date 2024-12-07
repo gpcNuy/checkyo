@@ -88,12 +88,20 @@
 <br>**onOff(12)b_OnMyAds_Slot3 == mList(25)OnMyAds_Slot3 [광고3 자체 링크 사용 여부]
 <br>**onOff(13)b_OnMyAds_Slot4 == mList(26)OnMyAds_Slot4 [광고4 자체 링크 사용 여부]
 <br><hr>
-<br>(64), (63), (62), (61), (60)ListLimit,
-<br>(59)ByteEmpty5, (58)ByteEmpty4, (57)ByteEmpty3, (56)ByteEmpty2, (55)ByteEmpty1,
-<br>(49)Link_9, (48)Link_8, (47)Link_7, (46)Link_6, (45)Link_5,
-<br>(44)Link_4, (43)Link_3, (42)Link_2, (41)Link_1, (40)Link_0,
-<br>(29)OnEmpty3, (28)OnEmpty2, (27)OnEmpty1,
-<br>db.mList(2)AppVersion == needUpdate[업데이트 체크], (0)AppNull
+<br>[ CheckYo ]
+<br>ListLimit = 60,
+<br>ByteEmpty5 = 59, ByteEmpty4 = 58, ByteEmpty3 = 57, ByteEmpty2 = 56, ByteEmpty1 = 55,
+<br>UseURL_4 = 54, UseURL_3 = 53, UseURL_2 = 52, UseURL_1 = 51, AutoAP = 50,
+<br>Link_9 = 49, Link_8 = 48, Link_7 = 47, Link_6 = 46, Link_5 = 45,
+<br>Link_4 = 44, Link_3 = 43, Link_2 = 42, Link_1 = 41, Link_0 = 40,
+<br>AdsPrize_4 = 39, AdsPrize_3 = 38, AdsPrize_2 = 37, AdsPrize_1 = 36, AdsVerify_4 = 35,
+<br>AdsVerify_3 = 34, AdsVerify_2 = 33, AdsVerify_1 = 32, AdsBlocScale = 31, AdsLayoutColor = 30,
+<br>OnEmpty3 = 29, OnEmpty2 = 28, OnEmpty1 = 27, OnMyAds_Slot4 = 26, OnMyAds_Slot3 = 25,
+<br>OnMyAds_Slot2 = 24, OnMyAds_Slot1 = 23, AdsBanner = 22, AdsTestID = 21, TestApp = 20,
+<br>AdsLetter_4E = 19, AdsLetter_4 = 18, AdsLetter_3E = 17, AdsLetter_3 = 16, AdsLetter_2E = 15,
+<br>AdsLetter_2 = 14, AdsLetter_1E = 13, AdsLetter_1 = 12, AdsImage_4E = 11, AdsImage_4 = 10,
+<br>AdsImage_3E = 9, AdsImage_3 = 8, AdsImage_2E = 7, AdsImage_2 = 6, AdsImage_1E = 5,
+<br>AdsImage_1 = 4, AppNotice = 3, AppVersion = 2, AppName = 1, AppNull = 0;
 <br><hr>
 <br>[ DataBase.cs - 1.0.33 ]
 <br>5 => amo.RewardShow(),
@@ -130,19 +138,4 @@
 <br>{14) Luz_100 }{13) }{12) Luz_50 }{11) Luz_20 }{10) Luz_0 }
 <br>{9) Placeholder }{8) }{7) }{6) }{5) }
 <br>{4) }{3) }{2) White }{1) Black }{0) Clear }
-<br><hr>
-<br>[ CheckYo ]
-<br>ListLimit = 60,
-<br>ByteEmpty5 = 59, ByteEmpty4 = 58, ByteEmpty3 = 57, ByteEmpty2 = 56, ByteEmpty1 = 55,
-<br>UseURL_4 = 54, UseURL_3 = 53, UseURL_2 = 52, UseURL_1 = 51, AutoAP = 50,
-<br>Link_9 = 49, Link_8 = 48, Link_7 = 47, Link_6 = 46, Link_5 = 45,
-<br>Link_4 = 44, Link_3 = 43, Link_2 = 42, Link_1 = 41, Link_0 = 40,
-<br>AdsPrize_4 = 39, AdsPrize_3 = 38, AdsPrize_2 = 37, AdsPrize_1 = 36, AdsVerify_4 = 35,
-<br>AdsVerify_3 = 34, AdsVerify_2 = 33, AdsVerify_1 = 32, AdsBlocScale = 31, AdsLayoutColor = 30,
-<br>OnEmpty3 = 29, OnEmpty2 = 28, OnEmpty1 = 27, OnMyAds_Slot4 = 26, OnMyAds_Slot3 = 25,
-<br>OnMyAds_Slot2 = 24, OnMyAds_Slot1 = 23, AdsBanner = 22, AdsTestID = 21, TestApp = 20,
-<br>AdsLetter_4E = 19, AdsLetter_4 = 18, AdsLetter_3E = 17, AdsLetter_3 = 16, AdsLetter_2E = 15,
-<br>AdsLetter_2 = 14, AdsLetter_1E = 13, AdsLetter_1 = 12, AdsImage_4E = 11, AdsImage_4 = 10,
-<br>AdsImage_3E = 9, AdsImage_3 = 8, AdsImage_2E = 7, AdsImage_2 = 6, AdsImage_1E = 5,
-<br>AdsImage_1 = 4, AppNotice = 3, AppVersion = 2, AppName = 1, AppNull = 0;
 <br><hr>
