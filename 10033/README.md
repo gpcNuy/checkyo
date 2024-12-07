@@ -91,19 +91,19 @@
 <br>[ CheckYo ]
 <br>(62-60)ListLimit
 <br>(61-59)ByteEmpty5  (60-58)ByteEmpty4  (59-57)ByteEmpty3  (58-56)ByteEmpty2  (57-55)ByteEmpty1
-<br>(56-54)UseURL_4  (55-53)UseURL_3  (54-52)UseURL_2  (53-51)UseURL_1  (52-50)AutoAP
+<br>(56-54)UseURL_4 =s_6 (55-53)UseURL_3 =s_5 (54-52)UseURL_2 =s_4 (53-51)UseURL_1 =s_3 (52-50)AutoAP
 <br>(51-49)Link_9  (50-48)Link_8  (49-47)Link_7  (48-46)Link_6  (47-45)Link_5
 <br>(46-44)Link_4  (45-43)Link_3  (44-42)Link_2  (43-41)Link_1  (42-40)Link_0
-<br>(41-39)AdsPrize_4  (40-38)AdsPrize_3  (39-37)AdsPrize_2  (38-36)AdsPrize_1
-<br>(37-35)AdsVerify_4  (36-34)AdsVerify_3  (35-33)AdsVerify_2  (34-32)AdsVerify_1
-<br>(33-31)AdsBlocScale  (32-30)AdsLayoutColor  (31-29)OnEmpty3  (30-28)OnEmpty2  (29-27)OnEmpty1
-<br>(28-26)OnMyAds_Slot4  (27-25)OnMyAds_Slot3  (26-24)OnMyAds_Slot2  (25-23)OnMyAds_Slot1
-<br>(24-22)AdsBanner  (23-21)AdsTestID  (22-20)TestApp
-<br>(21-19)AdsLetter_4E  (20-18)AdsLetter_4  (19-17)AdsLetter_3E  (18-16)AdsLetter_3
-<br>(17-15)AdsLetter_2E  (16-14)AdsLetter_2  (15-13)AdsLetter_1E  (14-12)AdsLetter_1
-<br>(13-11)AdsImage_4E  (12-10)AdsImage_4  (11-9)AdsImage_3E  (10-8)AdsImage_3
-<br>(9-7)AdsImage_2E  (8-6)AdsImage_2  (7-5)AdsImage_1E  (6-4)AdsImage_1
-<br>(4-3)AppNotice  (3-2)AppVersion  (2-1)AppName  (1-0)AppNull
+<br>(41-39)AdsPrize_4 =iS_19 (40-38)AdsPrize_3 =iS_18 (39-37)AdsPrize_2 =iS_17 (38-36)AdsPrize_1 =iS_16
+<br>(37-35)AdsVerify_4 =iS_15 (36-34)AdsVerify_3 =iS_14 (35-33)AdsVerify_2 =iS_13 (34-32)AdsVerify_1 =iS_12
+<br>(33-31)AdsBlocScale =f_0 (32-30)AdsLayoutColor =iS_2 (31-29)OnEmpty3  (30-28)OnEmpty2  (29-27)OnEmpty1
+<br>(28-26)OnMyAds_Slot4 =b_13 (27-25)OnMyAds_Slot3 =b_12 (26-24)OnMyAds_Slot2 =b_11 (25-23)OnMyAds_Slot1 =b_10
+<br>(24-22)AdsBanner =b_9 (23-21)AdsTestID =b_8 (22-20)TestApp =b_7
+<br>(21-19)AdsLetter_4E =s_14 (20-18)AdsLetter_4 =s_10 (19-17)AdsLetter_3E =s_13 (18-16)AdsLetter_3 =s_9
+<br>(17-15)AdsLetter_2E =s_12 (16-14)AdsLetter_2 =s_8 (15-13)AdsLetter_1E =s_11 (14-12)AdsLetter_1 =s_7
+<br>(13-11)AdsImage_4E =s_22 (12-10)AdsImage_4 =s_18 (11-9)AdsImage_3E =s_21 (10-8)AdsImage_3 =s_17
+<br>(9-7)AdsImage_2E =s_20 (8-6)AdsImage_2 =s_16 (7-5)AdsImage_1E =s_19 (6-4)AdsImage_1 =s_15
+<br>(4-3)AppNotice =s_2 (3-2)AppVersion =needUpdate (2-1)AppName =s_1 (1-0)AppNull
 <br><hr>
 <br>[ DataBase.cs - 1.0.33 ]
 <br>5 => amo.RewardShow(),
