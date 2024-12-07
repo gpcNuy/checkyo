@@ -91,7 +91,7 @@
 <br>[ CheckYo ]
 <br>(62-60)ListLimit
 <br>(61-59)ByteEmpty5  (60-58)ByteEmpty4  (59-57)ByteEmpty3  (58-56)ByteEmpty2  (57-55)ByteEmpty1
-<br>(56-54)UseURL_4 =s_6 (55-53)UseURL_3 =s_5 (54-52)UseURL_2 =s_4 (53-51)UseURL_1 =s_3 (52-50)AutoAP
+<br>(56-54)UseURL_4 =s_6 (55-53)UseURL_3 =s_5 (54-52)UseURL_2 =s_4 (53-51)UseURL_1 =s_3 (52-50)AutoAP =iS_20
 <br>(51-49)Link_9  (50-48)Link_8  (49-47)Link_7  (48-46)Link_6  (47-45)Link_5
 <br>(46-44)Link_4  (45-43)Link_3  (44-42)Link_2  (43-41)Link_1  (42-40)Link_0
 <br>(41-39)AdsPrize_4 =iS_19 (40-38)AdsPrize_3 =iS_18 (39-37)AdsPrize_2 =iS_17 (38-36)AdsPrize_1 =iS_16
