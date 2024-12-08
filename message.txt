@@ -2,7 +2,7 @@
 `체크요
 `1.0.33
 `필수 업데이트가 있습니다.
-(There is a mandatory update).
+(There is a mandatory update)
 `test image 01.png
 `test image 01 e.png
 `test image 02.png
