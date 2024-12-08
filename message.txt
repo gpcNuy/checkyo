@@ -3,14 +3,14 @@
 `1.0.33
 `필수 업데이트가 있습니다.
 (There is a mandatory update).
-`NC0007_chBox.png
-`NC0007_chBox.png
-`NC0007_chBox.png
-`NC0007_chBox.png
-`NC0007_chBox.png
-`NC0007_chBox.png
-`empty
-`NC0007_chBox.png
+`test image 01.png
+`test image 01 e.png
+`test image 02.png
+`test image 02 e.png
+`test image 03.png
+`test image 03 e.png
+`test image 04.png
+`test image 04 e.png
 `30초 광고 보기
 `Ads of 30 seconds
 `5~30초 광고 보기
