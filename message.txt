@@ -1,6 +1,6 @@
 
 `체크요
-`1.0.34
+`1.0.33
 `필수 업데이트가 있습니다.
 (There is a mandatory update).
 `test image 01.png
@@ -19,8 +19,8 @@
 `Ads of 5 seconds
 `광고 정지 기념 자체 광고
 `Self ads because can't ads for
-`false
-`false
+`true
+`true
 `true
 `false
 `false
