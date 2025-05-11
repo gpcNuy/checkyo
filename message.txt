@@ -11,14 +11,14 @@
 `test image 03 e.png
 `empty
 `test image 04 e.png
-`30초 광고 보기
-`Ads of 30 seconds
-`5~30초 광고 보기
-`Ads of 5~30 seconds
-`5초 광고 보기
-`Ads of 5 seconds
-`광고 정지 기념 자체 광고
-`Self ads because can't ads for
+`구글[리워드] 긴 광고 보기
+`play Ads of [Rewarded]
+`구글[3종 중] 랜덤 광고 보기
+`play Ads of [Random out of]
+`구글[전면] 짧은 광고 보기
+`play Ads of [interstitial]
+`자체 광고
+`Self Ads
 `false
 `false
 `true
