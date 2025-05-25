@@ -13,8 +13,8 @@
 `test image 04 e.png
 `구글[리워드] 긴 광고 보기
 `play Ads of [Rewarded]
-`구글[3종 중] 랜덤 광고 보기
-`play Ads of [Random out of]
+`구글[보상형전면] 광고 보기
+`play [Rewarded interstitial]
 `구글[전면] 짧은 광고 보기
 `play Ads of [interstitial]
 `자체 광고
