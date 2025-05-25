@@ -1,6 +1,6 @@
 
 `체크요
-`1.0.37
+`1.0.35
 `필수 업데이트가 있습니다.
 (There is a mandatory update)
 `test image 01.png
