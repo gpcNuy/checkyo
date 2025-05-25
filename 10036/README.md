@@ -1,5 +1,5 @@
 # version 1.0.37
-CheckYoWebRequest가 10036폴더로 되어 있음.
+CheckYoWebRequest가 10036폴더로 되어 있음. 바꾸면 안됨.<br>
 <br>sign(0)s_VerNic [생성시 Sign.AppName("CheckYo")]
 <br>sign(1)s_Letter == mList(1)AppName [사용 보류]
 <br>sign(2){s_Notice}s_Letter2 == mList(3)AppNotice [메인 메모=>업뎃 공지]
