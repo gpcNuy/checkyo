@@ -1,4 +1,5 @@
-# version 1.0.36
+# version 1.0.37
+CheckYoWebRequest가 10036폴더로 되어 있음.
 <br>sign(0)s_VerNic [생성시 Sign.AppName("CheckYo")]
 <br>sign(1)s_Letter == mList(1)AppName [사용 보류]
 <br>sign(2){s_Notice}s_Letter2 == mList(3)AppNotice [메인 메모=>업뎃 공지]
@@ -105,7 +106,7 @@
 <br>(9-7)AdsImage_2E =s_20 (8-6)AdsImage_2 =s_16 (7-5)AdsImage_1E =s_19 (6-4)AdsImage_1 =s_15
 <br>(4-3)AppNotice =s_2 (3-2)AppVersion =needUpdate (2-1)AppName =s_1 (1-0)AppNull
 <br><hr>
-<br>[ DataBase.cs - 1.0.36 ]
+<br>[ DataBase.cs - 1.0.37 ]
 <br>5 => amo.RewardShow(),
 <br>4 => amo.RewaFVShow(),
 <br>3 => amo.FullViewShow(),
