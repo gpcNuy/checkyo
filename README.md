@@ -21,7 +21,7 @@
 <br>
 <br>[ Google Adsense ]
 <br>https://admob.google.com/
-<br>Unity에서 admob사용시 설정 => AndroidManifest.xml
+<br>Unity에서 admob사용시 설정 => AndroidManifest.xml (이곳에 없어도 됨)
 <br>
 <br>[ Google Cearch Console ]
 <br>https://search.google.com/search-console?hl=ko&resource_id=https://gpcnuy.github.io/checkyo/
