@@ -20,7 +20,7 @@
 <br>https://adsense.google.com/adsense/u/1/pub-9284100516320364/onboarding
 <br>소유권 인증파일 => ads.txt
 <br>
-<br>[ Google Adsense ]
+<br>[ Google Admob ]
 <br>https://admob.google.com/v2/home?sac=true&authuser=1
 <br>https://developers.google.com/admob/unity/quick-start?hl=ko
 <br>Unity에서 admob사용시 설정 => AndroidManifest.xml (이곳에 없어도 됨)
