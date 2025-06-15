@@ -16,7 +16,7 @@
 <br><hr>
 # APPs
 <br>[ Google Adsense ]
-<br>https://adsense.google.com/
+<br>https://adsense.google.com/adsense/u/1/pub-9284100516320364/onboarding
 <br>소유권 인증파일 => ads.txt
 <br>
 <br>[ Google Adsense ]
