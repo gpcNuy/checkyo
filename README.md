@@ -1,4 +1,4 @@
-# checkyo
+# Checkyo
 [ link of home ]
 <br>https://gpcnuy.github.io/checkyo/
 <br>
