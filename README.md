@@ -20,7 +20,7 @@
 <br>소유권 인증파일 => ads.txt
 <br>
 <br>[ Google Adsense ]
-<br>https://admob.google.com/
+<br>https://admob.google.com/v2/home?sac=true&authuser=1
 <br>Unity에서 admob사용시 설정 => AndroidManifest.xml (이곳에 없어도 됨)
 <br>
 <br>[ Google Cearch Console ]
