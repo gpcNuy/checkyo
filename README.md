@@ -22,6 +22,7 @@
 <br>
 <br>[ Google Adsense ]
 <br>https://admob.google.com/v2/home?sac=true&authuser=1
+<br>https://developers.google.com/admob/unity/quick-start?hl=ko
 <br>Unity에서 admob사용시 설정 => AndroidManifest.xml (이곳에 없어도 됨)
 <br>
 <br>[ Google Cearch Console ]
