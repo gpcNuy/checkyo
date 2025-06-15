@@ -16,6 +16,7 @@
 <br><hr>
 # APPs
 <br>[ Google Adsense ]
+<br>https://adsense.google.com/adsense/pub-9284100516320364/onboarding
 <br>https://adsense.google.com/adsense/u/1/pub-9284100516320364/onboarding
 <br>소유권 인증파일 => ads.txt
 <br>
@@ -24,6 +25,7 @@
 <br>Unity에서 admob사용시 설정 => AndroidManifest.xml (이곳에 없어도 됨)
 <br>
 <br>[ Google Cearch Console ]
+<br>https://search.google.com/search-console?hl=ko&resource_id=https://gpcnuy.github.io/checkyo/
 <br>https://search.google.com/u/1/search-console?hl=ko&resource_id=https://gpcnuy.github.io/checkyo/
 <br>HTML 인증파일 => googlee8f82061e8902b5b.html
 <br>
