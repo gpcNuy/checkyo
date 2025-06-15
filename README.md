@@ -21,7 +21,7 @@
 <br>
 <br>[ Google Adsense ]
 <br>https://admob.google.com/
-<br>소유권 인증파일 => ads.txt
+<br>Unity에서 admob사용시 설정 => AndroidManifest.xml
 <br>
 <br>[ Google Cearch Console ]
 <br>https://search.google.com/search-console?hl=ko&resource_id=https://gpcnuy.github.io/checkyo/
